@@ -1,0 +1,15 @@
+.Pokedex {
+    text-align: center;
+    
+}
+
+.Pokedex-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    justify-content: space-evenly;
+  justify-items: center;
+  align-content: space-evenly;
+  align-items: center;
+}
+    
+    
